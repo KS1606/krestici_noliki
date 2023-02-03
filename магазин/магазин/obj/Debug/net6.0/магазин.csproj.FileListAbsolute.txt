@@ -1,0 +1,15 @@
+C:\Users\KS\source\repos\магазин\магазин\bin\Debug\net6.0\магазин.exe
+C:\Users\KS\source\repos\магазин\магазин\bin\Debug\net6.0\магазин.deps.json
+C:\Users\KS\source\repos\магазин\магазин\bin\Debug\net6.0\магазин.runtimeconfig.json
+C:\Users\KS\source\repos\магазин\магазин\bin\Debug\net6.0\магазин.dll
+C:\Users\KS\source\repos\магазин\магазин\bin\Debug\net6.0\магазин.pdb
+C:\Users\KS\source\repos\магазин\магазин\obj\Debug\net6.0\магазин.csproj.AssemblyReference.cache
+C:\Users\KS\source\repos\магазин\магазин\obj\Debug\net6.0\магазин.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\KS\source\repos\магазин\магазин\obj\Debug\net6.0\магазин.AssemblyInfoInputs.cache
+C:\Users\KS\source\repos\магазин\магазин\obj\Debug\net6.0\магазин.AssemblyInfo.cs
+C:\Users\KS\source\repos\магазин\магазин\obj\Debug\net6.0\магазин.csproj.CoreCompileInputs.cache
+C:\Users\KS\source\repos\магазин\магазин\obj\Debug\net6.0\магазин.dll
+C:\Users\KS\source\repos\магазин\магазин\obj\Debug\net6.0\refint\магазин.dll
+C:\Users\KS\source\repos\магазин\магазин\obj\Debug\net6.0\магазин.pdb
+C:\Users\KS\source\repos\магазин\магазин\obj\Debug\net6.0\магазин.genruntimeconfig.cache
+C:\Users\KS\source\repos\магазин\магазин\obj\Debug\net6.0\ref\магазин.dll

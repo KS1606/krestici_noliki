@@ -1,0 +1,15 @@
+C:\Users\KS\source\repos\pianino\pianino\bin\Debug\net6.0\pianino.exe
+C:\Users\KS\source\repos\pianino\pianino\bin\Debug\net6.0\pianino.deps.json
+C:\Users\KS\source\repos\pianino\pianino\bin\Debug\net6.0\pianino.runtimeconfig.json
+C:\Users\KS\source\repos\pianino\pianino\bin\Debug\net6.0\pianino.dll
+C:\Users\KS\source\repos\pianino\pianino\bin\Debug\net6.0\pianino.pdb
+C:\Users\KS\source\repos\pianino\pianino\obj\Debug\net6.0\pianino.csproj.AssemblyReference.cache
+C:\Users\KS\source\repos\pianino\pianino\obj\Debug\net6.0\pianino.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\KS\source\repos\pianino\pianino\obj\Debug\net6.0\pianino.AssemblyInfoInputs.cache
+C:\Users\KS\source\repos\pianino\pianino\obj\Debug\net6.0\pianino.AssemblyInfo.cs
+C:\Users\KS\source\repos\pianino\pianino\obj\Debug\net6.0\pianino.csproj.CoreCompileInputs.cache
+C:\Users\KS\source\repos\pianino\pianino\obj\Debug\net6.0\pianino.dll
+C:\Users\KS\source\repos\pianino\pianino\obj\Debug\net6.0\refint\pianino.dll
+C:\Users\KS\source\repos\pianino\pianino\obj\Debug\net6.0\pianino.pdb
+C:\Users\KS\source\repos\pianino\pianino\obj\Debug\net6.0\pianino.genruntimeconfig.cache
+C:\Users\KS\source\repos\pianino\pianino\obj\Debug\net6.0\ref\pianino.dll

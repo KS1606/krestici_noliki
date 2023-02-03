@@ -1,0 +1,30 @@
+﻿<Window x:Class="rabota_na_pare_18._01._2023.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:rabota_na_pare_18._01._2023"
+        mc:Ignorable="d"
+        Title="MainWindow" Height="450" Width="800">
+    <Grid>
+        <RadioButton x:Name="vilka" Content="вилкой в глаз" HorizontalAlignment="Left" Height="24" Margin="60,56,0,0" VerticalAlignment="Top" Width="94" GroupName="p5" Checked="vilka_Checked"/>
+        <TextBox HorizontalAlignment="Left" Height="27" Margin="60,10,0,0" TextWrapping="Wrap" Text="что ты выберешь" VerticalAlignment="Top" Width="107"/>
+        <RadioButton x:Name="nas" Content="нас или их" HorizontalAlignment="Left" Height="28" Margin="60,85,0,0" VerticalAlignment="Top" Width="94" GroupName="p5" Checked="vilka_Checked"/>
+        <RadioButton x:Name="nasa" Content="нас" HorizontalAlignment="Left" Height="19" Margin="218,49,0,0" VerticalAlignment="Top" Width="85" GroupName="p78"/>
+        <RadioButton x:Name="ix" Content="их" HorizontalAlignment="Left" Height="25" Margin="218,85,0,0" VerticalAlignment="Top" Width="85" GroupName="p78"/>
+        <TextBox HorizontalAlignment="Left" Height="18" Margin="79,134,0,0" TextWrapping="Wrap" Text="Что выберешь?" VerticalAlignment="Top" Width="110"/>
+        <CheckBox Content="вилкой в глаз" HorizontalAlignment="Left" Height="16" Margin="85,176,0,0" VerticalAlignment="Top" Width="94"/>
+        <CheckBox Content="вас" HorizontalAlignment="Left" Height="20" Margin="85,205,0,0" VerticalAlignment="Top" Width="87"/>
+        <CheckBox Content="их" HorizontalAlignment="Left" Height="18" Margin="85,236,0,0" VerticalAlignment="Top" Width="77"/>
+        <ComboBox x:Name="cogo" HorizontalAlignment="Left" Height="20" Margin="507,143,0,0" VerticalAlignment="Top" Width="106" Cursor="" SelectionChanged="cogo_SelectionChanged">
+            <ComboBoxItem Content="нас"/>
+            <ComboBoxItem Content="нас"/>
+            <ComboBoxItem Content="их"/>
+            <ComboBoxItem Content="сас"/>
+            <ComboBoxItem Content="вас"/>
+            <ComboBoxItem Content="хых"/>
+        </ComboBox>
+
+
+    </Grid>
+</Window>

@@ -1,0 +1,4 @@
+﻿  prakticheskaa2.cpp
+C:\Users\KS\source\repos\prakticheskaa2\prakticheskaa2\prakticheskaa2.cpp(79,21): warning C4244: =: преобразование "double" в "int", возможна потеря данных
+C:\Users\KS\source\repos\prakticheskaa2\prakticheskaa2\prakticheskaa2.cpp(89,22): warning C4244: =: преобразование "double" в "int", возможна потеря данных
+  prakticheskaa2.vcxproj -> C:\Users\KS\source\repos\prakticheskaa2\x64\Debug\prakticheskaa2.exe

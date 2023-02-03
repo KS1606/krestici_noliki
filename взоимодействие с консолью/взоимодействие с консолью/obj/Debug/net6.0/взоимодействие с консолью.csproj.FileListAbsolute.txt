@@ -1,0 +1,15 @@
+C:\Users\KS\source\repos\взоимодействие с консолью\взоимодействие с консолью\bin\Debug\net6.0\взоимодействие с консолью.exe
+C:\Users\KS\source\repos\взоимодействие с консолью\взоимодействие с консолью\bin\Debug\net6.0\взоимодействие с консолью.deps.json
+C:\Users\KS\source\repos\взоимодействие с консолью\взоимодействие с консолью\bin\Debug\net6.0\взоимодействие с консолью.runtimeconfig.json
+C:\Users\KS\source\repos\взоимодействие с консолью\взоимодействие с консолью\bin\Debug\net6.0\взоимодействие с консолью.dll
+C:\Users\KS\source\repos\взоимодействие с консолью\взоимодействие с консолью\bin\Debug\net6.0\взоимодействие с консолью.pdb
+C:\Users\KS\source\repos\взоимодействие с консолью\взоимодействие с консолью\obj\Debug\net6.0\взоимодействие с консолью.csproj.AssemblyReference.cache
+C:\Users\KS\source\repos\взоимодействие с консолью\взоимодействие с консолью\obj\Debug\net6.0\взоимодействие с консолью.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\KS\source\repos\взоимодействие с консолью\взоимодействие с консолью\obj\Debug\net6.0\взоимодействие с консолью.AssemblyInfoInputs.cache
+C:\Users\KS\source\repos\взоимодействие с консолью\взоимодействие с консолью\obj\Debug\net6.0\взоимодействие с консолью.AssemblyInfo.cs
+C:\Users\KS\source\repos\взоимодействие с консолью\взоимодействие с консолью\obj\Debug\net6.0\взоимодействие с консолью.csproj.CoreCompileInputs.cache
+C:\Users\KS\source\repos\взоимодействие с консолью\взоимодействие с консолью\obj\Debug\net6.0\взоимодействие с консолью.dll
+C:\Users\KS\source\repos\взоимодействие с консолью\взоимодействие с консолью\obj\Debug\net6.0\refint\взоимодействие с консолью.dll
+C:\Users\KS\source\repos\взоимодействие с консолью\взоимодействие с консолью\obj\Debug\net6.0\взоимодействие с консолью.pdb
+C:\Users\KS\source\repos\взоимодействие с консолью\взоимодействие с консолью\obj\Debug\net6.0\взоимодействие с консолью.genruntimeconfig.cache
+C:\Users\KS\source\repos\взоимодействие с консолью\взоимодействие с консолью\obj\Debug\net6.0\ref\взоимодействие с консолью.dll

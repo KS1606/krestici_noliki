@@ -1,0 +1,21 @@
+﻿<Window x:Class="b.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:b"
+        mc:Ignorable="d"
+        Title="MainWindow" Height="450" Width="800">
+    <Grid>
+        <Button Content="gndfkjgn" HorizontalAlignment="Left" Height="43" Margin="510,217,0,0" VerticalAlignment="Top" Width="225" FontSize="22" FontFamily="Times New Roman" Background="#FFE2A2A2" Click="Button_Click"/>
+        <Border x:Name="ZN" BorderBrush="Black" BorderThickness="1" HorizontalAlignment="Left" Height="105" Margin="176,133,0,0" VerticalAlignment="Top" Width="105" Cursor="Arrow">
+            <Border.Background>
+                <ImageBrush/>
+            </Border.Background>
+        </Border>
+        <Button x:Name="JJ" Content="Button" HorizontalAlignment="Left" Height="64" Margin="338,51,0,0" VerticalAlignment="Top" Width="284"/>
+        <TextBlock x:Name="ZNT" HorizontalAlignment="Left" Height="32" Margin="276,364,0,0" TextWrapping="Wrap" Text="VH" VerticalAlignment="Top" Width="138"/>
+        <TextBlock x:Name="r" HorizontalAlignment="Left" Height="36" Margin="467,161,0,0" TextWrapping="Wrap" Text="TextBlock" VerticalAlignment="Top" Width="224"/>
+
+    </Grid>
+</Window>

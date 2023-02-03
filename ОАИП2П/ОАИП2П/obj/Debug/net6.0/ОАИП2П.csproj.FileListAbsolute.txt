@@ -1,0 +1,15 @@
+C:\Users\KS\source\repos\ОАИП2П\ОАИП2П\bin\Debug\net6.0\ОАИП2П.exe
+C:\Users\KS\source\repos\ОАИП2П\ОАИП2П\bin\Debug\net6.0\ОАИП2П.deps.json
+C:\Users\KS\source\repos\ОАИП2П\ОАИП2П\bin\Debug\net6.0\ОАИП2П.runtimeconfig.json
+C:\Users\KS\source\repos\ОАИП2П\ОАИП2П\bin\Debug\net6.0\ОАИП2П.dll
+C:\Users\KS\source\repos\ОАИП2П\ОАИП2П\bin\Debug\net6.0\ОАИП2П.pdb
+C:\Users\KS\source\repos\ОАИП2П\ОАИП2П\obj\Debug\net6.0\ОАИП2П.csproj.AssemblyReference.cache
+C:\Users\KS\source\repos\ОАИП2П\ОАИП2П\obj\Debug\net6.0\ОАИП2П.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\KS\source\repos\ОАИП2П\ОАИП2П\obj\Debug\net6.0\ОАИП2П.AssemblyInfoInputs.cache
+C:\Users\KS\source\repos\ОАИП2П\ОАИП2П\obj\Debug\net6.0\ОАИП2П.AssemblyInfo.cs
+C:\Users\KS\source\repos\ОАИП2П\ОАИП2П\obj\Debug\net6.0\ОАИП2П.csproj.CoreCompileInputs.cache
+C:\Users\KS\source\repos\ОАИП2П\ОАИП2П\obj\Debug\net6.0\ОАИП2П.dll
+C:\Users\KS\source\repos\ОАИП2П\ОАИП2П\obj\Debug\net6.0\refint\ОАИП2П.dll
+C:\Users\KS\source\repos\ОАИП2П\ОАИП2П\obj\Debug\net6.0\ОАИП2П.pdb
+C:\Users\KS\source\repos\ОАИП2П\ОАИП2П\obj\Debug\net6.0\ОАИП2П.genruntimeconfig.cache
+C:\Users\KS\source\repos\ОАИП2П\ОАИП2П\obj\Debug\net6.0\ref\ОАИП2П.dll

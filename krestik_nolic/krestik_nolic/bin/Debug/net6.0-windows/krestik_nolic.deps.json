@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v6.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v6.0": {
+      "krestik_nolic/1.0.0": {
+        "runtime": {
+          "krestik_nolic.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "krestik_nolic/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

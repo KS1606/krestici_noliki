@@ -1,0 +1,15 @@
+C:\Users\KS\source\repos\ортпшова\ортпшова\obj\Debug\net6.0\ортпшова.csproj.AssemblyReference.cache
+C:\Users\KS\source\repos\ортпшова\ортпшова\obj\Debug\net6.0\ортпшова.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\KS\source\repos\ортпшова\ортпшова\obj\Debug\net6.0\ортпшова.AssemblyInfoInputs.cache
+C:\Users\KS\source\repos\ортпшова\ортпшова\obj\Debug\net6.0\ортпшова.AssemblyInfo.cs
+C:\Users\KS\source\repos\ортпшова\ортпшова\obj\Debug\net6.0\ортпшова.csproj.CoreCompileInputs.cache
+C:\Users\KS\source\repos\ортпшова\ортпшова\bin\Debug\net6.0\ортпшова.exe
+C:\Users\KS\source\repos\ортпшова\ортпшова\bin\Debug\net6.0\ортпшова.deps.json
+C:\Users\KS\source\repos\ортпшова\ортпшова\bin\Debug\net6.0\ортпшова.runtimeconfig.json
+C:\Users\KS\source\repos\ортпшова\ортпшова\bin\Debug\net6.0\ортпшова.dll
+C:\Users\KS\source\repos\ортпшова\ортпшова\bin\Debug\net6.0\ортпшова.pdb
+C:\Users\KS\source\repos\ортпшова\ортпшова\obj\Debug\net6.0\ортпшова.dll
+C:\Users\KS\source\repos\ортпшова\ортпшова\obj\Debug\net6.0\refint\ортпшова.dll
+C:\Users\KS\source\repos\ортпшова\ортпшова\obj\Debug\net6.0\ортпшова.pdb
+C:\Users\KS\source\repos\ортпшова\ортпшова\obj\Debug\net6.0\ортпшова.genruntimeconfig.cache
+C:\Users\KS\source\repos\ортпшова\ортпшова\obj\Debug\net6.0\ref\ортпшова.dll

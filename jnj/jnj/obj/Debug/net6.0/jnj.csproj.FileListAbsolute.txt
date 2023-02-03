@@ -1,0 +1,15 @@
+C:\Users\KS\source\repos\jnj\jnj\bin\Debug\net6.0\jnj.exe
+C:\Users\KS\source\repos\jnj\jnj\bin\Debug\net6.0\jnj.deps.json
+C:\Users\KS\source\repos\jnj\jnj\bin\Debug\net6.0\jnj.runtimeconfig.json
+C:\Users\KS\source\repos\jnj\jnj\bin\Debug\net6.0\jnj.dll
+C:\Users\KS\source\repos\jnj\jnj\bin\Debug\net6.0\jnj.pdb
+C:\Users\KS\source\repos\jnj\jnj\obj\Debug\net6.0\jnj.csproj.AssemblyReference.cache
+C:\Users\KS\source\repos\jnj\jnj\obj\Debug\net6.0\jnj.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\KS\source\repos\jnj\jnj\obj\Debug\net6.0\jnj.AssemblyInfoInputs.cache
+C:\Users\KS\source\repos\jnj\jnj\obj\Debug\net6.0\jnj.AssemblyInfo.cs
+C:\Users\KS\source\repos\jnj\jnj\obj\Debug\net6.0\jnj.csproj.CoreCompileInputs.cache
+C:\Users\KS\source\repos\jnj\jnj\obj\Debug\net6.0\jnj.dll
+C:\Users\KS\source\repos\jnj\jnj\obj\Debug\net6.0\refint\jnj.dll
+C:\Users\KS\source\repos\jnj\jnj\obj\Debug\net6.0\jnj.pdb
+C:\Users\KS\source\repos\jnj\jnj\obj\Debug\net6.0\jnj.genruntimeconfig.cache
+C:\Users\KS\source\repos\jnj\jnj\obj\Debug\net6.0\ref\jnj.dll

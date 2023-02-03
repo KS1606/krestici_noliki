@@ -1,0 +1,15 @@
+C:\Users\KS\source\repos\методы\методы\bin\Debug\net6.0\методы.exe
+C:\Users\KS\source\repos\методы\методы\bin\Debug\net6.0\методы.deps.json
+C:\Users\KS\source\repos\методы\методы\bin\Debug\net6.0\методы.runtimeconfig.json
+C:\Users\KS\source\repos\методы\методы\bin\Debug\net6.0\методы.dll
+C:\Users\KS\source\repos\методы\методы\bin\Debug\net6.0\методы.pdb
+C:\Users\KS\source\repos\методы\методы\obj\Debug\net6.0\методы.csproj.AssemblyReference.cache
+C:\Users\KS\source\repos\методы\методы\obj\Debug\net6.0\методы.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\KS\source\repos\методы\методы\obj\Debug\net6.0\методы.AssemblyInfoInputs.cache
+C:\Users\KS\source\repos\методы\методы\obj\Debug\net6.0\методы.AssemblyInfo.cs
+C:\Users\KS\source\repos\методы\методы\obj\Debug\net6.0\методы.csproj.CoreCompileInputs.cache
+C:\Users\KS\source\repos\методы\методы\obj\Debug\net6.0\методы.dll
+C:\Users\KS\source\repos\методы\методы\obj\Debug\net6.0\refint\методы.dll
+C:\Users\KS\source\repos\методы\методы\obj\Debug\net6.0\методы.pdb
+C:\Users\KS\source\repos\методы\методы\obj\Debug\net6.0\методы.genruntimeconfig.cache
+C:\Users\KS\source\repos\методы\методы\obj\Debug\net6.0\ref\методы.dll

@@ -1,0 +1,30 @@
+﻿<Window x:Name="knop1" x:Class="krestik_nolic.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:krestik_nolic"
+        mc:Ignorable="d"
+        Title="MainWindow" Height="553" Width="392">
+    <Grid>
+        <Button x:Name="nach" Content="Начать игру!" HorizontalAlignment="Center" Height="32" Margin="0,478,0,0" VerticalAlignment="Top" Width="372" Click="nach_Click" FontFamily="Times New Roman" FontSize="22"/>
+        <Button x:Name="knop" Content="" HorizontalAlignment="Left" Height="70" Margin="41,129,0,0" VerticalAlignment="Top" Width="70" RenderTransformOrigin="0.5,0.515" Click="knop_Click" FontFamily="Times New Roman" FontSize="48"/>
+        <Button x:Name="knop2" Content="" HorizontalAlignment="Center" Height="70" Margin="0,129,0,0" VerticalAlignment="Top" Width="70" RenderTransformOrigin="0.814,0.586" Click="knop2_Click" FontSize="48" FontFamily="Times New Roman"/>
+        <Button x:Name="knop3" Content="" HorizontalAlignment="Left" Height="70" Margin="274,129,0,0" VerticalAlignment="Top" Width="70" Click="knop3_Click" FontFamily="Times New Roman" FontSize="48"/>
+        <Button x:Name="knop4" Content="" HorizontalAlignment="Left" Height="70" Margin="41,0,0,0" VerticalAlignment="Center" Width="70" RenderTransformOrigin="0.5,2.401" Click="knop4_Click" FontFamily="Times New Roman" FontSize="48"/>
+        <Button x:Name="knop7" Content="" HorizontalAlignment="Left" Height="70" Margin="41,345,0,0" VerticalAlignment="Top" Width="70" RenderTransformOrigin="0.5,0.515" Click="knop7_Click" FontFamily="Times New Roman" FontSize="48"/>
+        <Button x:Name="knop5" Content="" HorizontalAlignment="Center" Height="70" VerticalAlignment="Center" Width="70" RenderTransformOrigin="0.571,0.601" Click="knop5_Click" FontFamily="Times New Roman" FontSize="48"/>
+        <Button x:Name="knop6" Content="" HorizontalAlignment="Left" Height="70" Margin="274,0,0,0" VerticalAlignment="Center" Width="70" RenderTransformOrigin="0.5,0.515" Click="knop6_Click" FontFamily="Times New Roman" FontSize="48"/>
+        <Button x:Name="knop8" Content="" HorizontalAlignment="Center" Height="70" Margin="0,345,0,0" VerticalAlignment="Top" Width="70" RenderTransformOrigin="0.5,0.515" Click="knop8_Click" FontFamily="Times New Roman" FontSize="48"/>
+        <Button x:Name="knop9" Content="" HorizontalAlignment="Left" Height="70" Margin="274,345,0,0" VerticalAlignment="Top" Width="70" RenderTransformOrigin="0.5,0.515" Click="knop9_Click" FontFamily="Times New Roman" FontSize="48"/>
+        <TextBlock x:Name="text" HorizontalAlignment="Left" Height="50" Margin="41,36,0,0" TextWrapping="Wrap" VerticalAlignment="Top" Width="303" Foreground="#FF6EDBFF" FontFamily="Times New Roman" FontSize="36">
+            <TextBlock.Background>
+                <LinearGradientBrush EndPoint="0.5,1" StartPoint="0.5,0">
+                    <GradientStop Color="Black"/>
+                    <GradientStop Color="#FFCACCFF" Offset="1"/>
+                </LinearGradientBrush>
+            </TextBlock.Background>
+        </TextBlock>
+
+    </Grid>
+</Window>

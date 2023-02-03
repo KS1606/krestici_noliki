@@ -1,0 +1,15 @@
+C:\Users\KS\source\repos\kjj\kjj\bin\Debug\net6.0\kjj.exe
+C:\Users\KS\source\repos\kjj\kjj\bin\Debug\net6.0\kjj.deps.json
+C:\Users\KS\source\repos\kjj\kjj\bin\Debug\net6.0\kjj.runtimeconfig.json
+C:\Users\KS\source\repos\kjj\kjj\bin\Debug\net6.0\kjj.dll
+C:\Users\KS\source\repos\kjj\kjj\bin\Debug\net6.0\kjj.pdb
+C:\Users\KS\source\repos\kjj\kjj\obj\Debug\net6.0\kjj.csproj.AssemblyReference.cache
+C:\Users\KS\source\repos\kjj\kjj\obj\Debug\net6.0\kjj.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\KS\source\repos\kjj\kjj\obj\Debug\net6.0\kjj.AssemblyInfoInputs.cache
+C:\Users\KS\source\repos\kjj\kjj\obj\Debug\net6.0\kjj.AssemblyInfo.cs
+C:\Users\KS\source\repos\kjj\kjj\obj\Debug\net6.0\kjj.csproj.CoreCompileInputs.cache
+C:\Users\KS\source\repos\kjj\kjj\obj\Debug\net6.0\kjj.dll
+C:\Users\KS\source\repos\kjj\kjj\obj\Debug\net6.0\refint\kjj.dll
+C:\Users\KS\source\repos\kjj\kjj\obj\Debug\net6.0\kjj.pdb
+C:\Users\KS\source\repos\kjj\kjj\obj\Debug\net6.0\kjj.genruntimeconfig.cache
+C:\Users\KS\source\repos\kjj\kjj\obj\Debug\net6.0\ref\kjj.dll
